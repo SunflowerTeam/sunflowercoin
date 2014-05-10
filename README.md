@@ -1,7 +1,7 @@
 
 SunflowerCoin-SFC
 
-SunflowerCoin is not only an Alt coin. It's "the coin" backed up by the service of our dynamic Dev team.  
+SunflowerCoin is not only an Altcoin. It's "the coin" backed up by the service of our dynamic Dev team.  
 Each coin is literally one share issued by our Dev team, and will be automatically qualify for free shares 
 from our future projects, such as Lottery DAC and other DACs with 2nd Gen features. We will honor more than 
 20% each of our future projects to SFC holders, but the rate could rise up to 95% if this distribution 
